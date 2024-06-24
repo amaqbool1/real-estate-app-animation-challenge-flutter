@@ -31,8 +31,6 @@ To get started with this project, follow these steps:
 
 1.  **Clone the repository:**
     
-    sh
-    
     Copy code
     
     `git clone https://github.com/amaqbool1/real-estate-app-animation-challenge-flutter.git
