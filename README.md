@@ -9,7 +9,6 @@ This project is an attempt to recreate a stunning real estate app UI animation, 
 -   [Demo](#demo)
 -   [Installation](#installation)
 -   [Usage](#usage)
--   [Folder Structure](#folder-structure)
 -   [Contributing](#contributing)
 -   [License](#license)
 -   [Acknowledgements](#acknowledgements)
